@@ -1,0 +1,14 @@
+conda create -p mlp python==3.10 -y
+pip install -r requirements.txt
+
+# Fail :conda activate "D:/Large Language Model/End to End Multi Language Invoice Extractor Project using Gemi"
+conda activate "D:\Large Language Model\End to End Multi Language Invoice Extractor Project using Gemini Pro LLM Model\mlp"
+
+pip install -r "D:\Large Language Model\End to End Multi Language Invoice Extractor Project using Gemini Pro LLM Model\requirements.txt"
+
+
+
+
+pip install --upgrade pip setuptools wheel
+pip install --upgrade google-generativeai google-api-core google-ai-generativelanguage
+pip install --upgrade grpcio grpcio-status protobuf typing-extensions

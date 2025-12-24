@@ -1,0 +1,6 @@
+Agenda:
+1-Mutlilanguage Invoice Extractor App Demo 
+2-Create Enviroment 
+3-requirements.txt
+4-step by step building App 
+5- Additional Improvments 
